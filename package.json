@@ -1,0 +1,29 @@
+{
+  "name": "advanced_js_webpack_2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./dist/main.html",
+  "scripts": {
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BorisKaminskiy/advanced_js_webpack_2.git"
+  },
+  "author": "Boris Kaminskiy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BorisKaminskiy/advanced_js_webpack_2/issues"
+  },
+  "devDependencies": {
+    "css-loader": "^6.7.3",
+    "html-webpack-plugin": "^5.5.0",
+    "mini-css-extract-plugin": "^2.7.5",
+    "path": "^0.12.7",
+    "webpack": "^5.76.3",
+    "webpack-cli": "^5.0.1",
+    "webpack-dev-server": "^4.13.1"
+  }
+}
