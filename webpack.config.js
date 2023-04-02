@@ -37,4 +37,3 @@ module.exports = {
     compress: true,
     port: 8000,
   },
-}

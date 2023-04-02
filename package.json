@@ -10,12 +10,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BorisKaminskiy/advanced_js_webpack_2.git"
+    "url": "git+https://github.com/Pohlan92/advanced_js_webpack_2.git"
   },
-  "author": "Boris Kaminskiy",
+  "author": "Pohlan92",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/BorisKaminskiy/advanced_js_webpack_2/issues"
+    "url": "https://github.com/Pohlan92/advanced_js_webpack_2/issues"
   },
   "devDependencies": {
     "css-loader": "^6.7.3",
